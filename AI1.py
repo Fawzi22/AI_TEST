@@ -1,5 +1,5 @@
 import cv2
-Test 01
+# Test 01
 cam = cv2.VideoCapture(0)
 
 while True :
